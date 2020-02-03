@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello world!";
+header('location: app/');
